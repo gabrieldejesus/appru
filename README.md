@@ -2,7 +2,7 @@
 
 🔁 Recreating a landing page
 
-![](assets/images/web-preview.gif)
+![](assets/images/web-preview.png)
 
 <p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
